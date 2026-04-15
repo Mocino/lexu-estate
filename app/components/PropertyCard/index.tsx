@@ -1,5 +1,5 @@
 import React from 'react';
-import { Property } from '../data/properties';
+import { Property } from '../../data/properties';
 
 export default function PropertyCard({ property }: { property: Property }) {
   return (
